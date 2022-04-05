@@ -1,11 +1,11 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import './App.css';
 import Navbar from './components/Navbar';
-import Recipe from "./components/pages/Recipe";
-import About from "./components/pages/About";
-import Github from "./components/pages/Github";
-import Logout from "./components/pages/Logout";
-import Header from './components/pages/Header';
+import Recipe from "./components/Recipe";
+import About from "./components/About";
+import Github from "./components/Github";
+import Logout from "./components/Logout";
+import Header from './components/Header';
 
 
 function App() {
